@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hENtVRT7R6ECpDJdgISu8Nu6myuPl9nZpxqhzKMfFx0=",
+  "Source": "Hag26012023AzureEchoBot",
+  "BasePath": "_content/Hag26012023AzureEchoBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Hag26012023AzureEchoBot\\wwwroot",
+      "Source": "Hag26012023AzureEchoBot",
+      "ContentRoot": "D:\\Max\\VisualStudio\\Hag26012023AzureEchoBot\\Hag26012023AzureEchoBot\\wwwroot\\",
+      "BasePath": "_content/Hag26012023AzureEchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Max\\VisualStudio\\Hag26012023AzureEchoBot\\Hag26012023AzureEchoBot\\wwwroot\\default.htm",
+      "SourceId": "Hag26012023AzureEchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Max\\VisualStudio\\Hag26012023AzureEchoBot\\Hag26012023AzureEchoBot\\wwwroot\\",
+      "BasePath": "_content/Hag26012023AzureEchoBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
